@@ -13,6 +13,7 @@ spring:
       server:
         git:
           uri: git@github.com:uzumaki0naruto/cloud-config-center.git
+
           search-paths:
             cloud-config-center
-      label: master
+      label: main
